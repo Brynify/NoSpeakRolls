@@ -19,7 +19,7 @@ addon_info = {
 	# Translators: Long description to be shown for this add-on on add-on information from add-ons manager
 	"addon_description" : _("""We stop NVDA from saying rolls, such as button, list, link, etc."""),
 	# version
-	"addon_version" : "0.1",
+	"addon_version" : "0.2",
 	# Author(s)
 	"addon_author" : "Mason Armstrong <mason@masonasons.me>",
 	# URL for the add-on documentation support
@@ -27,7 +27,7 @@ addon_info = {
 	# Documentation file name
 	"addon_docFileName" : "readme.html",
 	"addon_minimum_nvda_version" : "2019.3",
-	"addon_last_tested_nvda_version" : "2020.4",
+	"addon_last_tested_nvda_version" : "2022.1",
 }
 
 
